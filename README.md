@@ -27,6 +27,18 @@ Application web Django pour gérer un banquet d'église : tables, menu, inscript
 - Gestion du menu (créer/supprimer des plats, pas de limite)
 - **Vue résultats** : tables en ordre numérique avec les commandes (1 - plat, 2 - plat...)
 
+## Captures d'écran
+
+> Captures réelles de l'application, avec des données de démonstration.
+
+| Accueil | Inscription |
+| --- | --- |
+| ![Accueil du banquet](docs/captures/ace-accueil.jpg) | ![Inscription d'un invité](docs/captures/ace-inscription.jpg) |
+| **Choix du plat (modifiable 2 minutes)** | **Tableau de bord admin** |
+| ![Choix du plat](docs/captures/ace-choix-plat.jpg) | ![Tableau de bord](docs/captures/ace-tableau-de-bord.jpg) |
+
+![Résultats par table](docs/captures/ace-resultats.jpg)
+
 ## Installation locale
 
 ### Prérequis

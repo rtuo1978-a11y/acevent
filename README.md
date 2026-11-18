@@ -140,3 +140,7 @@ backend/
 | `/admin-panel/menu/` | Gestion menu |
 | `/admin-panel/results/` | Voir les résultats |
 | `/django-admin/` | Interface admin Django |
+
+## Auteure
+
+**Goyéli Rose Tuo**, développeuse d'applications web et mobile. [Mon portfolio](https://rtuo1978-a11y.github.io/PortfolioRose/) · [Mon GitHub](https://github.com/rtuo1978-a11y)
